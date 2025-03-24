@@ -1,5 +1,18 @@
 # Changelog
 
+## [23.13.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.12.0...v23.13.0) (2025-03-24)
+
+
+### Features
+
+* **add:** WS-K04E ([#9054](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9054)) ([8547aa5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8547aa5942ebaf2b518c54d17155755527d01930))
+* **add:** ZG-WK-DA-Wh-Zigbee ([#9058](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9058)) ([db9f408](https://github.com/Koenkk/zigbee-herdsman-converters/commit/db9f408abf87d6d6ccd45115ae056458db08c135))
+
+
+### Bug Fixes
+
+* EFEKTA: various fixes ([#9055](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9055)) ([ab9edb4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ab9edb4a4a04b282eb966b12d8201faeb4985a3f))
+
 ## [23.12.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.11.0...v23.12.0) (2025-03-23)
 
 
